@@ -13,6 +13,6 @@
 
 @property (nullable, nonatomic) NSArray *clothes;
 
--(nullable Sweatshirt*)wash:(nullable Sweatshirt*)sweatshirt;
+-(nonnull Sweatshirt*)wash:(nonnull Sweatshirt*)sweatshirt;
 
 @end

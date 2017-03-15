@@ -5,8 +5,8 @@
 //  Created by Gabrielle Miller-Messner on 2/26/16.
 //  Copyright © 2016 Gabrielle Miller-Messner. All rights reserved.
 //
-
 #import "RPSGame.h"
+#import "RPS_Mixed-Swift.h"
 
 @implementation RPSGame
 

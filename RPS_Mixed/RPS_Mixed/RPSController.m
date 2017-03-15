@@ -7,7 +7,7 @@
 //
 
 #import "RPSController.h"
-#import "RPSGame.h"
+#import "RPS_Mixed-Swift.h"
 
 
 @implementation RPSController
